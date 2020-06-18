@@ -3,6 +3,9 @@
 ### 环境
 windows  
 python3.8
+### 数据集
+训练集 train.conll
+测试集 dev.conll
 ### 运行
 python establishHMM.py  
 python evaluate.py
